@@ -2,7 +2,7 @@
 
 ## 🎯 Module Assignment Overview
 
-Each developer such as yourself is assigned one backend module to implement the frontend for a calendly.com like platform called as NovaMeet with the following Moduled intotal :
+Each developer is assigned one backend module to implement the frontend for a calendly.com like platform called as NovaMeet with the following Moduled intotal :
 
 1. **Users Module** - Authentication, profiles, team management, security
 2. **Events Module** - Event types, bookings, analytics

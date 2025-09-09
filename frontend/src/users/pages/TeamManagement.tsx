@@ -2,19 +2,19 @@ import React from 'react';
 import { Typography } from '@mui/material';
 import { PageHeader } from '@/components/core';
 
-const ProfileSettings: React.FC = () => {
+const TeamManagement: React.FC = () => {
   return (
     <>
       <PageHeader
-        title="Profile Settings"
-        subtitle="Manage your personal information and preferences"
+        title="Team Management"
+        subtitle="Manage team members, roles, and invitations"
       />
       
       <Typography variant="body1">
-        Profile settings content will be implemented here.
+        Team management content will be implemented here.
       </Typography>
     </>
   );
 };
 
-export default ProfileSettings;
+export default TeamManagement;
